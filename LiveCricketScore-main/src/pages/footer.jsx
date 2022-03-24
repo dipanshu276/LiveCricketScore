@@ -16,7 +16,7 @@ const FooterPage = () => {
       <div className="footer-copyright text-center py-3">
         <MDBContainer fluid className="textFotter">
           &copy; {new Date().getFullYear()} Developers: <div className="textNames">
-          Kundan, Dipanshu, Udit
+          Dipanshu
               
               </div> 
         </MDBContainer>
